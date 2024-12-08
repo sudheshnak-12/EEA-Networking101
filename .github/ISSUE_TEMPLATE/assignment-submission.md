@@ -8,5 +8,6 @@ assignees: ''
 ---
 
 # Submit your assignment by 
-1. Pasting a Link of Required file 
-2. Adding the code if possible to the issue.
+1. Launch a PR after you are done with contributions in your branch 
+2. Link the PR to this issue response 
+3. Adding the code if possible to the issue.
