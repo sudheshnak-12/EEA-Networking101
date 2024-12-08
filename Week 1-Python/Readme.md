@@ -27,4 +27,4 @@ Here are some helpful resources to guide you through the assignment:
 
 ## Recommendations
 - Use Google for any queries you may have during the assignment.
-- It is highly recommended to **speedrun** these topics for a quick overview.
+- It is highly recommended to **speedrun** first 4 topics for a quick overview.
