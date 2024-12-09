@@ -5,7 +5,7 @@ Please complete the assignment in the following order:
 
 ### Python Syntax
 - Objects and Data Structures
-- Chained Comparison Operators ( Not an Assignment, Just for Practice )
+- Chained Comparison Operators ( Not an Assignment, Just run the cells )
 - Statements
 - Functions and Methods 
 
