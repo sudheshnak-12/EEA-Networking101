@@ -7,7 +7,7 @@ Please complete the assignment in the following order:
 - Objects and Data Structures
 - Chained Comparison Operators
 - Statements
-- Chained Comparison Operators (Duplicate; confirm necessity)
+- Functions and Methods 
 
 ### Socket Programming
 - Socket Calculator
